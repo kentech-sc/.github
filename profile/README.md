@@ -8,7 +8,7 @@
 
 ### 📬 문의처
 * **학생회 공식**: [studentcouncil@kentech.ac.kr](mailto:studentcouncil@kentech.ac.kr)
-* **정보국장**: [miniipad03@kentech.ac.kr](mailto:miniipad03@kentech.ac.kr)
+* **정보국장**: [nemovim@kentech.ac.kr](mailto:nemovim@kentech.ac.kr)
 
 ---
 © 2026 KENTECH Student Council
